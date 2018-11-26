@@ -1,1 +1,1 @@
-gcr.io/heptio-images/kube-conformance:latest
+FROM gcr.io/heptio-images/kube-conformance:latest
